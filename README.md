@@ -2,7 +2,8 @@
 
 ## 概要
 
-このプロジェクトは、PyAutoGUI を使用して YouTube での操作を自動化する Python スクリプトです。特に、指定した勉強用 BGM プレイリストへの自動アクセスを実現します。
+このプロジェクトは、PyAutoGUI を使用して YouTube での操作を自動化する Python スクリプトです。
+今回は、指定した勉強用 BGM プレイリストへの自動アクセスを実現します。
 
 https://github.com/user-attachments/assets/4fa62bba-157d-4549-af1d-fed61a1a01ea
 
